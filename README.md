@@ -6,6 +6,6 @@ PYTHONPATH=/usr/bin/python3\
 \* \* \* \* \* cd ~/PycharmProjects/stock_notifier && /usr/local/bin/python3 main.py >> ~/PycharmProjects/stock_notifier/cron/cron.txt 2>&1
 
 # What I Learned
- * Utilizing the python library yahoo_fin for Stock Analysis
+ * Utilizing the Python Library yahoo_fin for Stock Analysis
  * Setting up as Cron Job
  * Sending text messages using Twilio Communications API
