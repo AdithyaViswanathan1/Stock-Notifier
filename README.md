@@ -7,5 +7,5 @@ PYTHONPATH=/usr/bin/python3\
 
 # What I Learned
  * Utilizing the Python Library yahoo_fin for Stock Analysis
- * Setting up as Cron Job
+ * Setting up as Cron Job using Terminal Commands
  * Sending text messages using Twilio Communications API
