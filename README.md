@@ -2,7 +2,7 @@
 Notifies you if a stock price goes below a certain value
 
 # Cron Commands
-PYTHONPATH=/usr/bin/python3
+PYTHONPATH=/usr/bin/python3\
 \* \* \* \* \* cd ~"PROJECTPATH" && "PYTHONPATH" main.py >> ~"CRONPATH" 2>&1
 
 # What I Learned
